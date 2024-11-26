@@ -7,8 +7,8 @@ This is minimal boilerplate for a React application.
 1. Clone the repo into your local machine.
 
 ```shell
-git clone <repo_name>
-cd <repo_name>
+git clone https://github.com/thatcatfromspace/react-workshop.git
+cd workshop
 ```
 
 2. Install the required packages using `npm`.
